@@ -1,4 +1,20 @@
 # 💫 About Me  
+
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
+```rust
+fn main() {
+    let name = "Priyanshu Singh";
+    let acknowledgements = "B.Tech 3rd-year student";
+
+    let location = "Bengaluru, Karnataka, India";
+    
+    println!("Name: {}", name);
+    println!("Acknowledgements: {}", acknowledgements);
+    println!("Location: {}", location);
+}
+
+```
 ![Profile Views](https://komarev.com/ghpvc/?username=spriyanshucoder&label=Profile+views&style=for-the-badge&color=green)
 
 - 🔭 I’m currently working on **Golang** and **DevOps**.  
