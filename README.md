@@ -59,17 +59,8 @@ fn main() {
 
 ---
 
-/*
-# 📊 GitHub Stats  
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=dev-priyanshu15&theme=neon-palenight&hide_border=true&card_width=705"></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-priyanshu15&theme=2077"></td>
-  </tr>
-</table> 
-*/
+
+
 
 <table>
   <tr>
