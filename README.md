@@ -69,6 +69,9 @@ fn main() {
   </tr>
 </table>
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyanshukumarsinha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 [![Holopin](https://holopin.me/spriyanshucoder)](https://holopin.io/@spriyanshucoder)
