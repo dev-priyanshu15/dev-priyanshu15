@@ -70,7 +70,7 @@ fn main() {
 </table>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshukumarsinha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dev-priyanshu15&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
