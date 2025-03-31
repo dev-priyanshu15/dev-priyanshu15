@@ -59,6 +59,7 @@ fn main() {
 
 ---
 
+/*
 # 📊 GitHub Stats  
 <table>
   <tr>
@@ -67,7 +68,8 @@ fn main() {
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-priyanshu15&theme=2077"></td>
   </tr>
-</table>
+</table> 
+*/
 
 <table>
   <tr>
