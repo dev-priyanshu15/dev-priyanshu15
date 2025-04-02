@@ -70,9 +70,6 @@ fn main() {
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-priyanshu15&theme=2077">
      </td>
    </tr>
-
-
-
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-priyanshu15&theme=aura_dark"></td>
